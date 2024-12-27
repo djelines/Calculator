@@ -1,4 +1,4 @@
-# 🧮 Calculatrice
+# 🧮 Calculator
 
 ## 🇫🇷 Français 
 
