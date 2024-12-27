@@ -1,6 +1,6 @@
 # 🧮 Calculatrice
 
-🇫🇷 **Français**
+## 🇫🇷 Français 
 
 ## Description
 **Calculatrice** est une application web simple et esthétique pour effectuer des opérations mathématiques de base. Elle permet d'effectuer des calculs rapides tout en offrant une interface moderne et intuitive.
@@ -30,7 +30,7 @@ L'application supporte les opérations d'addition, soustraction, multiplication 
 
 --- 
 
-🇬🇧 **English**
+## 🇬🇧 **English**
 
 ## Description
 **Calculator** is a simple and stylish web application designed to perform basic mathematical operations. It provides a quick way to compute calculations with a modern and intuitive interface.
