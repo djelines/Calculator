@@ -1,34 +1,63 @@
 # 🧮 Calculatrice
 
-Bienvenue sur le projet **Calculatrice**, une application web simple et élégante pour effectuer des calculs de base. Ce projet a été réalisé en HTML, CSS et JavaScript, et offre une interface conviviale avec des animations légères.
+🇫🇷 **Français**
 
----
+## Description
+**Calculatrice** est une application web simple et esthétique pour effectuer des opérations mathématiques de base. Elle permet d'effectuer des calculs rapides tout en offrant une interface moderne et intuitive.
 
-## 🚀 Fonctionnalités
-- Addition, soustraction, multiplication et division.
-- Suppression de la dernière entrée (`↩`).
-- Réinitialisation complète de l'écran (`C`).
-- Limitation à 10 caractères pour éviter les débordements.
-- Feedback visuel sur les boutons lors du clic.
-- Gestion des erreurs lors des calculs invalides.
+L'application supporte les opérations d'addition, soustraction, multiplication et division, ainsi que des fonctions supplémentaires comme la suppression d'entrée et la réinitialisation.
 
----
 
-## 🎨 Interface utilisateur
-- **Design moderne et responsive** avec des couleurs harmonieuses.
-- **Animation légère** au survol et au clic des boutons.
-- **Message d'alerte** lorsque la limite maximale de caractères est atteinte.
+## 🛠️ Fonctionnalités
+- Interface graphique intuitive et responsive.
+- Calculs mathématiques de base (+, -, *, /).
+- Suppression de l'entrée précédente (`↩`).
+- Réinitialisation complète (`C`).
+- Gestion des erreurs lors des expressions invalides.
+- Limitation à 10 caractères pour les résultats.
+- Feedback visuel lors des interactions avec les boutons.
 
----
 
-## 📁 Structure du projet
-- **HTML** : Structure de la calculatrice.
-- **CSS** : Style et design.
-- **JavaScript** : Gestion des interactions et des calculs.
-
----
-
-## 💻 Installation et utilisation
-1. Clone ce dépôt :
+## 🎮 Instructions d'utilisation
+1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/tonnomutilisateur/calculatrice.git
+   git clone <URL_DU_DÉPÔT>
+   ```
+2. Ouvrez le fichier principal dans votre navigateur :
+   ```bash
+   index.html
+   ```
+
+--- 
+
+🇬🇧 **English**
+
+## Description
+**Calculator** is a simple and stylish web application designed to perform basic mathematical operations. It provides a quick way to compute calculations with a modern and intuitive interface.
+
+The application supports addition, subtraction, multiplication, and division, along with additional features such as input deletion and reset.
+
+
+
+## 🛠️ Features
+- Intuitive and responsive graphical interface.
+- Basic mathematical operations (+, -, *, /).
+- Input deletion (`↩`).
+- Full reset (`C`).
+- Error handling for invalid expressions.
+- 10-character limit for results.
+- Visual feedback when interacting with buttons.
+
+
+
+## 🎮 How to Use
+1. Clone this repository to your local machine:
+   ```bash
+   git clone <REPOSITORY_URL>
+   ```
+2. Open the main file in your browser:
+   ```bash
+   index.html
+   ```
+
+
