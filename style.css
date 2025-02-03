@@ -47,7 +47,7 @@ body {
   justify-content: center;
   width: 400px;
   position: absolute;
-  top: 180px; /* Maintien de la position sous l'écran */
+  top: 250px; /* Maintien de la position sous l'écran */
 }
 
 .button,
